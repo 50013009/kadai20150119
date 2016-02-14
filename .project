@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>Reservation</name>
+=======
+	<name>FrameSystem</name>
+>>>>>>> b8c8f1c6eb8460546e146309cfcb4a9f126ba252
 	<comment></comment>
 	<projects>
 	</projects>
